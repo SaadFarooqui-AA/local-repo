@@ -7,4 +7,5 @@ pre {
     overflow-x: auto;
     white-space: pre-wrap;
     word-wrap: break-word;
+    background-color: rgb(58, 119, 160);
 }
