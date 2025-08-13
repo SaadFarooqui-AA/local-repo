@@ -5,4 +5,6 @@ pre {
     border: 1px solid #ccc;
     padding: 10px;
     overflow-x: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
 }
